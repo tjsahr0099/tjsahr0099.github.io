@@ -6,16 +6,16 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on Hugo Zzo Theme</title>
-    <link>http://example.org/en/categories/</link>
-    <description>Recent content in Categories on Hugo Zzo Theme</description>
+    <title>Categories on Develope Blog</title>
+    <link>https://tjsahr0099.github.io/en/categories/</link>
+    <description>Recent content in Categories on Develope Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
     <webMaster>zzossig@gmail.com (zzossig)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tjsahr0099.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
