@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Develope Blog</title>
+    <link>https://tjsahr0099.github.io/</link>
+    <description>Recent content on Develope Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>dearelfoov@gmail.com (kim seon mok)</managingEditor>
+    <webMaster>dearelfoov@gmail.com (kim seon mok)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 08 Oct 2021 16:33:02 +0900</lastBuildDate>
+    
+        <atom:link href="https://tjsahr0099.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>Hugo와 Github io를 이용한 블로그 제작</title>
+        <link>https://tjsahr0099.github.io/posts/20211008-01/</link>
+        <pubDate>Fri, 08 Oct 2021 16:33:02 +0900</pubDate>
+        <author>dearelfoov@gmail.com (kim seon mok)</author>
+        <atom:modified>Fri, 08 Oct 2021 16:33:02 +0900</atom:modified>
+        <guid>https://tjsahr0099.github.io/posts/20211008-01/</guid>
+        <description>개요 hugo를 이용해 나만의 정적 블로그 만들기. 그동안 네이버나 티스토리 등의 블로그에서 포스팅을 하며 개발 블로그 작성을 시도했지만, 스마트 에디터가 나에겐</description>
+        
+        <dc:creator>kim seon mok</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>github</category>
+            
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

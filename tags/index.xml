@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Develope Blog</title>
+    <link>https://tjsahr0099.github.io/tags/</link>
+    <description>Recent content in Tags on Develope Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>dearelfoov@gmail.com (kim seon mok)</managingEditor>
+    <webMaster>dearelfoov@gmail.com (kim seon mok)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 08 Oct 2021 16:33:02 +0900</lastBuildDate>
+    
+        <atom:link href="https://tjsahr0099.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>github</title>
+        <link>https://tjsahr0099.github.io/tags/github/</link>
+        <pubDate>Fri, 08 Oct 2021 16:33:02 +0900</pubDate>
+        <author>dearelfoov@gmail.com (kim seon mok)</author>
+        
+        <guid>https://tjsahr0099.github.io/tags/github/</guid>
+        <description></description>
+        
+        <dc:creator>kim seon mok</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>hugo</title>
+        <link>https://tjsahr0099.github.io/tags/hugo/</link>
+        <pubDate>Fri, 08 Oct 2021 16:33:02 +0900</pubDate>
+        <author>dearelfoov@gmail.com (kim seon mok)</author>
+        
+        <guid>https://tjsahr0099.github.io/tags/hugo/</guid>
+        <description></description>
+        
+        <dc:creator>kim seon mok</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
