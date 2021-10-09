@@ -14,11 +14,35 @@
     <managingEditor>dearelfoov@gmail.com (kim seon mok)</managingEditor>
     <webMaster>dearelfoov@gmail.com (kim seon mok)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 08 Oct 2021 16:33:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 Oct 2021 22:00:01 +0900</lastBuildDate>
     
         <atom:link href="https://tjsahr0099.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Hugo Zzo테마 프로필, 로고 설정</title>
+        <link>https://tjsahr0099.github.io/posts/20211009-01/</link>
+        <pubDate>Sat, 09 Oct 2021 22:00:01 +0900</pubDate>
+        <author>dearelfoov@gmail.com (kim seon mok)</author>
+        <atom:modified>Sat, 09 Oct 2021 22:00:01 +0900</atom:modified>
+        <guid>https://tjsahr0099.github.io/posts/20211009-01/</guid>
+        <description>Hugo Zzo테마 프로필, 로고 설정</description>
+        
+        <dc:creator>kim seon mok</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Hugo와 Github io를 이용한 블로그 제작</title>
@@ -27,7 +51,7 @@
         <author>dearelfoov@gmail.com (kim seon mok)</author>
         <atom:modified>Fri, 08 Oct 2021 16:33:02 +0900</atom:modified>
         <guid>https://tjsahr0099.github.io/posts/20211008-01/</guid>
-        <description>hugo를 이용해 나만의 정적 블로그 만들기.</description>
+        <description>hugo 설치 및 githun.io로 샘플 띄우기</description>
         
         <dc:creator>kim seon mok</dc:creator>
         
