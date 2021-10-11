@@ -14,20 +14,20 @@
     <managingEditor>dearelfoov@gmail.com (kim seon mok)</managingEditor>
     <webMaster>dearelfoov@gmail.com (kim seon mok)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 11 Oct 2021 00:00:43 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 Oct 2021 21:16:57 +0900</lastBuildDate>
     
         <atom:link href="https://tjsahr0099.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>Git Submodule</title>
-        <link>https://tjsahr0099.github.io/posts/20211010-01/</link>
-        <pubDate>Mon, 11 Oct 2021 00:00:43 +0900</pubDate>
+        <title>javascript의 scope와 closer</title>
+        <link>https://tjsahr0099.github.io/posts/20201011-01/</link>
+        <pubDate>Mon, 11 Oct 2021 21:16:57 +0900</pubDate>
         <author>dearelfoov@gmail.com (kim seon mok)</author>
-        <atom:modified>Mon, 11 Oct 2021 00:00:43 +0900</atom:modified>
-        <guid>https://tjsahr0099.github.io/posts/20211010-01/</guid>
-        <description>Git Submodule</description>
+        <atom:modified>Mon, 11 Oct 2021 21:16:57 +0900</atom:modified>
+        <guid>https://tjsahr0099.github.io/posts/20201011-01/</guid>
+        <description>javascript의 scope와 closer</description>
         
         <dc:creator>kim seon mok</dc:creator>
         
@@ -36,7 +36,7 @@
         
           
             
-              <category>hugo</category>
+              <category>javascript</category>
             
           
         
