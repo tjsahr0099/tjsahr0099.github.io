@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>springboot on Develope Blog</title>
+    <link>https://tjsahr0099.github.io/tags/springboot/</link>
+    <description>Recent content in springboot on Develope Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dearelfoov@gmail.com (kim seon mok)</managingEditor>
+    <webMaster>dearelfoov@gmail.com (kim seon mok)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 19 Oct 2021 18:51:18 +0900</lastBuildDate>
+    
+        <atom:link href="https://tjsahr0099.github.io/tags/springboot/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>STS로 SpringBoot ide세팅하기</title>
+        <link>https://tjsahr0099.github.io/posts/20211019-01/</link>
+        <pubDate>Tue, 19 Oct 2021 18:51:18 +0900</pubDate>
+        <author>dearelfoov@gmail.com (kim seon mok)</author>
+        <atom:modified>Tue, 19 Oct 2021 18:51:18 +0900</atom:modified>
+        <guid>https://tjsahr0099.github.io/posts/20211019-01/</guid>
+        <description>STS로 SpringBoot ide세팅하기</description>
+        
+        <dc:creator>kim seon mok</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>sts</category>
+            
+          
+            
+              <category>springboot</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
